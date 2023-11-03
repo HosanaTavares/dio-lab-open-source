@@ -11,7 +11,3 @@ Moro no RJ e faço faculdade de ADS.
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=Bootstrap&logoColor=264CE4)
-
-## Contribuições
-<img width=55% textalign="center" src="https://github-readme-streak-stats.herokuapp.com?user=HosanaTavares&theme=radical&mode=weekly"/>
- 
